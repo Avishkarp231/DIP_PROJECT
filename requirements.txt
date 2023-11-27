@@ -1,5 +1,5 @@
-python==3.8.10
-numpy==1.21.2
-matplotlib==3.4.3
-opencv-python==4.5.3.56
-streamlit==0.88.0
+python
+numpy
+opencv-python-headless
+matplotlib
+streamlit
