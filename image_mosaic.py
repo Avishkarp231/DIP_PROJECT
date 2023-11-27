@@ -1,6 +1,5 @@
 from ransac import *
 from feature_extraction import *
-from scipy import optimize
 from optimize_fcn import *
 
 
